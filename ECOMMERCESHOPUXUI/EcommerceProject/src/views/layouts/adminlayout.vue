@@ -56,7 +56,7 @@ onMounted(() => {
           <!-- Start XP Logobar -->
           <div class="xp-logobar text-center">
             <a href="index.html" class="xp-logo"
-              ><img src="../../assets/admin/images/logo.svg" class="img-fluid" alt="logo"
+              ><img src="../../assets/Admin/images/logo.svg" class="img-fluid" alt="logo"
             /></a>
           </div>
           <!-- End XP Logobar -->
