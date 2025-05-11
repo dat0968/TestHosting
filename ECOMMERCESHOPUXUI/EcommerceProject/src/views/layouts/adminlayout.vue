@@ -164,7 +164,7 @@ onMounted(() => {
                           <li class="media xp-msg">
                             <img
                               class="mr-3 align-self-center rounded-circle"
-                              src="../../assets/admin/images/topbar/user-message-3.jpg"
+                              src="../../assets/Admin/images/topbar/user-message-3.jpg"
                               alt="Generic placeholder image"
                             />
                             <div class="media-body">
@@ -204,7 +204,7 @@ onMounted(() => {
                         aria-haspopup="true"
                         aria-expanded="false"
                         ><img
-                          src="../../assets/admin/images/topbar/user.jpg"
+                          src="../../assets/Admin/images/topbar/user.jpg"
                           alt="user-profile"
                           class="rounded-circle img-fluid" /><span class="xp-user-live"></span
                       ></a>
