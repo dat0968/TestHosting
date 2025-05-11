@@ -24,7 +24,6 @@ import 'bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js'
 import '../../assets/Admin/js/main.js'
 import statistics from '../admin/statistics/statistics.vue'
 import { onMounted } from 'vue'
-
 onMounted(() => {
   // Khởi tạo dropdown menu
   const dropdownToggle = document.querySelector('.xp-userprofile .dropdown-toggle')
@@ -56,7 +55,7 @@ onMounted(() => {
           <!-- Start XP Logobar -->
           <div class="xp-logobar text-center">
             <a href="index.html" class="xp-logo"
-              ><img src="../../assets/Admin/images/logo.svg" class="img-fluid" alt="logo"
+              ><img class="img-fluid" alt="logo"
             /></a>
           </div>
           <!-- End XP Logobar -->
