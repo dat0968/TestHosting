@@ -144,7 +144,7 @@ onMounted(() => {
                           <li class="media xp-msg">
                             <img
                               class="mr-3 align-self-center rounded-circle"
-                              src="../../assets/admin/images/topbar/user-message-2.jpg"
+                              src="../../assets/Admin/images/topbar/user-message-2.jpg"
                               alt="Generic placeholder image"
                             />
                             <div class="media-body">
