@@ -415,7 +415,7 @@
               </div>
               <div class="trend__item">
                 <div class="trend__item__pic">
-                  <img src="../../assets/img/trend/ht-2.jpg" alt="" />
+                  <img src="../../assets/Admin/img/trend/ht-2.jpg" alt="" />
                 </div>
                 <div class="trend__item__text">
                   <h6>Pendant earrings</h6>
