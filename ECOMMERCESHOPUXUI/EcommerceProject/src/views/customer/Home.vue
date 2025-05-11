@@ -399,7 +399,7 @@
               </div>
               <div class="trend__item">
                 <div class="trend__item__pic">
-                  <img src="../../assets/img/trend/ht-1.jpg" alt="" />
+                  <img src="../../assets/Customer/img/trend/ht-1.jpg" alt="" />
                 </div>
                 <div class="trend__item__text">
                   <h6>Chain bucket bag</h6>
