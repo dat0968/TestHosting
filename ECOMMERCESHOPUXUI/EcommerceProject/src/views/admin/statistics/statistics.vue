@@ -246,21 +246,21 @@
                 <div class="row">
                   <div class="col-4 px-1">
                     <img
-                      src="../../assets/admin/images/ui-images/image-circle.jpg"
+                      src="../../assets/Admin/images/ui-images/image-circle.jpg"
                       class="rounded img-fluid"
                       alt="img"
                     />
                   </div>
                   <div class="col-4 px-1">
                     <img
-                      src="../../assets/admin/images/ui-images/image-rounded.jpg"
+                      src="../../assets/Admin/images/ui-images/image-rounded.jpg"
                       class="rounded img-fluid"
                       alt="img"
                     />
                   </div>
                   <div class="col-4 px-1">
                     <img
-                      src="../../assets/admin/images/ui-images/image-thumbnail.jpg"
+                      src="../../assets/Admin/images/ui-images/image-thumbnail.jpg"
                       class="rounded img-fluid"
                       alt="img"
                     />
@@ -277,7 +277,7 @@
                   <div class="col-6">
                     <div class="xp-social-profile-avatar text-center">
                       <img
-                        src="../../assets/admin/images/ui-media/media-image-8.jpg"
+                        src="../../assets/Admin/images/ui-media/media-image-8.jpg"
                         alt="user-profile"
                         class="rounded-circle img-fluid"
                       /><span class="xp-social-profile-live"></span>

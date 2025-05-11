@@ -1,13 +1,13 @@
 <script setup>
-import '../../assets/admin/images/favicon.ico'
-import '../../assets/admin/plugins/chartist-js/chartist.min.css'
+import '../../assets/Admin/images/favicon.ico'
+import '../../assets/Admin/plugins/chartist-js/chartist.min.css'
 // import 'chartist/dist/chartist.css'
 //import '../../assets/admin/plugins/datepicker/datepicker.min.css'
 import 'bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css'
 //import '../../assets/admin/css/bootstrap.min.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import '../../assets/admin/css/icons.css'
-import '../../assets/admin/css/style.css'
+import '../../assets/Admin/css/icons.css'
+import '../../assets/Admin/css/style.css'
 // import '../../assets/admin/js/jquery.min.js'
 import 'jquery'
 import '@popperjs/core'
@@ -124,7 +124,7 @@ onMounted(() => {
                           <li class="media xp-msg">
                             <img
                               class="mr-3 align-self-center rounded-circle"
-                              src="../../assets/admin/images/topbar/user-message-1.jpg"
+                              src="../../assets/Admin/images/topbar/user-message-1.jpg"
                               alt="Generic placeholder image"
                             />
                             <div class="media-body">
